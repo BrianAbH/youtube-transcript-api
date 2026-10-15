@@ -7,6 +7,7 @@ Instalación
 Requiere Python 3.10 o superior.
 
 pip install -r requirements.txt
+
 python app.py
 
 Notas
